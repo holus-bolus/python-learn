@@ -6,6 +6,6 @@ print(f"Hello {user_input}")  # this will print the user's name
 print("Happy birthday!")  # this will print a birthday message
 print(f"You are {age} years old")  # this will print the user's age
 
-length = int(input("Enter the length area: "))
-width = int(input("enter the width: "))
+length = float(input("Enter the length area: "))
+width = float(input("enter the width: "))
 print(f"The rectangle area is {length * width}")
