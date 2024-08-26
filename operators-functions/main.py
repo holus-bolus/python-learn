@@ -1,4 +1,5 @@
 import math
+
 friends = 0
 
 friends += 10
@@ -21,3 +22,7 @@ result = round(x)
 print(f"the result is {result}")
 print(math.pi)
 print(math.e)
+
+some_number = math.sqrt(4)
+ceil_num = math.ceil(3.2)
+floor_num = math.floor(4.3)
